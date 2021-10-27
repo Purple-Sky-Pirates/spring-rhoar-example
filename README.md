@@ -52,8 +52,11 @@ oc get routes
 Examples:
 
 http://spring-getting-started-example-project.apps-crc.testing
+
 http://spring-getting-started-example-project.apps-crc.testing/actuator/health
+
 http://spring-getting-started-example-project.apps-crc.testing/actuator/metrics
+
 http://spring-getting-started-example-project.apps-crc.testing/actuator/metrics/jvm.memory.max
 
 
